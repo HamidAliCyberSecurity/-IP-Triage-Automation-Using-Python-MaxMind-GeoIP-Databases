@@ -17,7 +17,7 @@ This project automates IP threat intelligence triage using Python and MaxMind Ge
 ## Setup Instructions
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/IP-Triage-Automation.git
+   https://github.com/HamidAliCyberSecurity/-IP-Triage-Automation-Using-Python-MaxMind-GeoIP-Databases.git
 Install required Python packages:
 
 bash
